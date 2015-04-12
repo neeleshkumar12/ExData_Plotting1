@@ -1,5 +1,5 @@
 ##Variables
-fname ="plot13.png"
+fname ="plot1.png"
 startdate = "2007-02-01"
 enddate = "2007-02-02"
 numberofrows =  2075259
